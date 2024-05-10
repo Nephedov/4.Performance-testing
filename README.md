@@ -30,6 +30,10 @@
 * Зафиксировано время откликов выполнения обоих сценариев - <a href="https://github.com/Nephedov/Performance-test-Load_DB/blob/main/Additional%20task/Screenshots/ScreenshotWebDB.jpg">Скриншот результатов</a>.
 
 
+---
+---
+
+
 
 ## Описание Задания 1
 
